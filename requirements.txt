@@ -1,6 +1,6 @@
 feedparser
 gitpython
-git+https://github.com/KurimuzonAkuma/pyrogram@dev
+git+https://github.com/Xcilik/pyro.git
 python-dotenv
 Pyromod
 speedtest-cli
